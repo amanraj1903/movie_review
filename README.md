@@ -1,3 +1,3 @@
 # movieReview
 #view aaplication on:
-https://movietoreview.herokuapp.com/
+https://moviereview0.herokuapp.com/
